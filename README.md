@@ -5,9 +5,9 @@ the [Macaulay2 language](https://github.com/Macaulay2/M2) from source.
 
 ## Details:
 
-Author: Alex Coleman <a.coleman1@leeds.ac.uk>
-Date: 2020-06-29
-Originating request: REQTSK0356325
+Author: Alex Coleman <a.coleman1@leeds.ac.uk>  
+Date: 2020-06-29  
+Originating request: REQTSK0356325  
 
 ## TODO:
 
