@@ -1,3 +1,4 @@
+[![https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg](https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/4512)
 # A singularity container for PHCpack
 
 A repo containing the Singularity recipe file for build [PHCpack](https://github.com/janverschelde/PHCpack/). Also builds
@@ -11,9 +12,9 @@ Originating request: REQTSK0356325
 
 ## TODO:
 
-- [ ] get Macauley2 built 
-- [ ] get PHCpack built
-- [ ] create acceptable interface for user
+- [x] get Macauley2 built 
+- [x] get PHCpack built
+- [x] create acceptable interface for user
 - [ ] write documentation for use
-- [ ] upload to Singularity Hub (optional)
+- [x] upload to Singularity Hub (optional)
 
